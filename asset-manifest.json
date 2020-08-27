@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cyberbuddies/static/css/main.d70499d8.chunk.css",
+    "main.js": "/cyberbuddies/static/js/main.b8c8d114.chunk.js",
+    "main.js.map": "/cyberbuddies/static/js/main.b8c8d114.chunk.js.map",
+    "runtime-main.js": "/cyberbuddies/static/js/runtime-main.b926a093.js",
+    "runtime-main.js.map": "/cyberbuddies/static/js/runtime-main.b926a093.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/cyberbuddies/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a31a4944.chunk.js": "/cyberbuddies/static/js/2.a31a4944.chunk.js",
+    "static/js/2.a31a4944.chunk.js.map": "/cyberbuddies/static/js/2.a31a4944.chunk.js.map",
+    "index.html": "/cyberbuddies/index.html",
+    "precache-manifest.fe1daebb13f23e229d23a10219376c93.js": "/cyberbuddies/precache-manifest.fe1daebb13f23e229d23a10219376c93.js",
+    "service-worker.js": "/cyberbuddies/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/cyberbuddies/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d70499d8.chunk.css.map": "/cyberbuddies/static/css/main.d70499d8.chunk.css.map",
+    "static/js/2.a31a4944.chunk.js.LICENSE.txt": "/cyberbuddies/static/js/2.a31a4944.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cyberbuddies/static/media/Robotica-ZYmB.c6cddf15.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b926a093.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a31a4944.chunk.js",
+    "static/css/main.d70499d8.chunk.css",
+    "static/js/main.b8c8d114.chunk.js"
+  ]
+}
